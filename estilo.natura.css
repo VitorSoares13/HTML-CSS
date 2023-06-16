@@ -144,7 +144,7 @@ main strong{
    font-weight: bold;
    
 }
-strong.destaque{
+ mains > strong.destaque{
     color: #201514;
 }
 main a{
