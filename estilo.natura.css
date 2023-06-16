@@ -112,8 +112,10 @@ main{
     }
 
     main img{
-        padding-left: 50px;
+        padding-top: 30px;
+        padding-left: 20px;
         padding-bottom: 20px;
+        margin: auto;
         width: 90%;
     }
 
@@ -142,11 +144,14 @@ main strong{
    font-weight: bold;
    
 }
+strong.destaque{
+    color: #472724;
+}
 main a{
     color:#755957 ;
     background-color:  var(--cor3);
     border-radius: 10px;
-    padding: 2px 6px;
+    padding: 5px 6px;
     font-weight: bold;
     }
 
