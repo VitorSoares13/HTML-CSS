@@ -140,12 +140,12 @@ main{
     height: 90%;
 }
 main strong{
-    color: #C25E55;
+    color: #301c1b;
    font-weight: bold;
    
 }
  mains > strong.destaque{
-    color: #201514;
+    color: #301c1b;
 }
 main a{
     color:#755957 ;
